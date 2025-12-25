@@ -123,4 +123,4 @@ Contributions are welcome! If you'd like to improve CineBook, feel free to fork 
 
 ---
 
-*Made with ❤️ by the CineBook Team*
+
