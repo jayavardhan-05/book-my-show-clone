@@ -5,7 +5,7 @@
 CineBook is a modern, full-stack movie ticket booking application designed with a premium user experience in mind. It features a sleek dark-themed interface, real-time seat selection, and a smooth booking flow.
 
 ![CineBook UI](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80) 
-*(Note: Replace with an actual screenshot of your app for a better look!)*
+
 
 ---
 
